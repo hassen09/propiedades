@@ -1,0 +1,2 @@
+# propiedades
+Python,Scrapy,  Proxy
